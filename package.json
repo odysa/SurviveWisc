@@ -1,0 +1,16 @@
+{
+  "name": "SurviveWisc",
+  "version": "1.0.0",
+  "repository": "git@github.com:odysa/SurviveWisc.git",
+  "author": "Chengxu Bian <cbian7@wisc.edu>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.13",
+    "vue": "^3.2.39"
+  }
+}
